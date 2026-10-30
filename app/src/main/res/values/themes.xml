@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.App" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B0B14</item>
+        <item name="android:statusBarColor">#0B0B14</item>
+        <item name="android:navigationBarColor">#0B0B14</item>
+    </style>
+
+    <style name="Theme.App.Transparent" parent="android:Theme.Translucent.NoTitleBar">
+        <item name="android:windowNoDisplay">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>
